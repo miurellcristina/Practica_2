@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_String", "Ejercic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_StringInt", "Ejercicio_StringInt\Ejercicio_StringInt.csproj", "{F937FE2A-677B-403F-8385-A161B32139E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones", "Operaciones\Operaciones.csproj", "{88611638-F19C-415A-8597-D76BC10385BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burguer", "Burguer\Burguer.csproj", "{BAD6DE0E-47AB-4B39-9DFA-146EC521B418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F937FE2A-677B-403F-8385-A161B32139E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F937FE2A-677B-403F-8385-A161B32139E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F937FE2A-677B-403F-8385-A161B32139E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88611638-F19C-415A-8597-D76BC10385BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88611638-F19C-415A-8597-D76BC10385BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88611638-F19C-415A-8597-D76BC10385BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88611638-F19C-415A-8597-D76BC10385BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD6DE0E-47AB-4B39-9DFA-146EC521B418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD6DE0E-47AB-4B39-9DFA-146EC521B418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD6DE0E-47AB-4B39-9DFA-146EC521B418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD6DE0E-47AB-4B39-9DFA-146EC521B418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
